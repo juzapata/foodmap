@@ -1,1 +1,56 @@
 /*Add your CSS*/
+.box-one, .box-two {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.box-one {
+  background-color: #D02328;
+  color: #FED600;
+}
+
+.icon-food {
+    color: #FED600;
+	font-size: 8vh;
+}
+
+.lines {
+  width: 36vw;
+  background-color:#FED600
+}
+
+.box-two {
+  background-color: white;
+  color: #D02328;
+  display: none;	
+ }
+ 
+.temp-nav {
+  width: 100vw;
+  height: 15vh;
+  background-color: #D02328;
+  color: #FED600;
+}
+
+.icon-food-two {
+  font-size: 5vh;
+}
+
+.restaurantes {
+  
+}
+
+.display-none {
+  display: none;
+}
+
+.img-set{
+  height: 16vh;
+  width: 26vw;  
+  margin: 10px;
+  border-radius: 100%;
+  border: solid 1px  #D02328;
+}
