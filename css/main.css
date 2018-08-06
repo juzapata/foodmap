@@ -23,7 +23,9 @@
 }
 
 .box-two {
-  background-color: white;
+  width: 100%;
+  height: 132vh;;
+  background-color: #fff1a2;
   color: #D02328;
   display: none;	
  }
@@ -43,8 +45,13 @@
   
 }
 
-.display-none {
-  display: none;
+.food-input {
+  border: solid 2px #D02328;	
+}
+
+.filter {
+  background-color: #D02328;
+  color: #FED600;
 }
 
 .img-set{
@@ -52,5 +59,19 @@
   width: 26vw;  
   margin: 10px;
   border-radius: 100%;
-  border: solid 1px  #D02328;
+  border: solid 2px  #D02328;
 }
+
+.window-popup {
+  height: 100px;
+  width: 100px; 
+  background-color: blue;  
+}
+
+
+
+
+
+
+
+
